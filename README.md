@@ -29,7 +29,7 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
-Open the URL that appears in your terminal (usually http://localhost:8501).
+Open the URL that appears in your terminal (usually (http://localhost:8501/)).
 
 ## 🧠 How it Works
 
